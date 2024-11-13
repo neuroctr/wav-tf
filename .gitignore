@@ -3,6 +3,7 @@ debug/
 target/
 temp/
 tmp/
+testdata/
 
 # Files
 .*
