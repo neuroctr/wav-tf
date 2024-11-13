@@ -1,20 +1,18 @@
-# Directories
-debug/
-target/
 temp/
 tmp/
 testdata/
-
-# Files
 .*
 **/.*
-Cargo.lock
-*.pdb
-*.tar
-*.tar.*
-*.zip
-*.exe
-**/.exe
+
+# Python
+python/v
+
+# Rust
+rust/debug/
+rust/target/
+rust/Cargo.lock
+
+
 
 # Exceptions
 !.gitignore
