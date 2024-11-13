@@ -1,0 +1,20 @@
+# Directories
+debug/
+target/
+temp/
+tmp/
+
+# Files
+.*
+**/.*
+Cargo.lock
+*.pdb
+*.tar
+*.tar.*
+*.zip
+*.exe
+**/.exe
+
+# Exceptions
+!.gitignore
+!.github
